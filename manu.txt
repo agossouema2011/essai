@@ -1,0 +1,3 @@
+I like python programmining
+I hate java
+I love php
